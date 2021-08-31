@@ -18,7 +18,7 @@ This is a demo API for Movies. Documentation will be added later using Insomnia.
 - [Installation](#installation)
 - [Technologies](#technologies)
 - [NPM Libraries](#npm-libraries)
-- [Features](#features)
+- [To-do list](#to-do-list)
 - [Status](#status)
 
 ## Installation
